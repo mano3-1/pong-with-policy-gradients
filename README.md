@@ -19,3 +19,5 @@ AI beats pong game by policy gradients method.
     This may take 2-3 days to converge on cpu...one might get the result much faster if one trains 
     on gpu(I haven't tried it but one of my friend said that)
     
+## How to run
+    Just clone this repository to your system and then run pong.py file.
